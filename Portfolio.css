@@ -22,6 +22,13 @@ h1,h3,p{
     text-align: center;
 }
 
+l{
+    color:rgb(226, 233, 199);
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-size:3pc
+}
+
 q1{
     background-color:white;
 }
@@ -42,7 +49,6 @@ q1{
     margin: auto;
     max-width: 1200px;
     background-color: rgb(181, 212, 220);
-     /*always Center the chart*/
     text-align: center; 
 
     border-width: 3px;
@@ -51,8 +57,16 @@ q1{
     border-color: rgb(100,100,100);
 }
 
-
 /* Set the apperance of the class, chart */
+
+.tt{
+    text-align: left
+}
+
+.sub{
+    text-align: center;
+}
+
 .container {
     display: inline-table;
     justify-content: center;

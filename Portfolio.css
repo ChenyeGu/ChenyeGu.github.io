@@ -68,7 +68,6 @@ q1{
 }
 
 .container {
-    margin:auto;
     display: inline-table;
     justify-content: center;
     vertical-align: top;
@@ -81,7 +80,6 @@ q1{
     }
 
 .chart{
-    margin:auto;
     background-color: white;
     width:350px;
     display: inline-table; 

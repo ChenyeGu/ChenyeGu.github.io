@@ -11,7 +11,7 @@
   
     
     "data": {
-      "url": "https://raw.githubusercontent.com/ChenyeGu/ChenyeGu.github.io/main/sample.csv",
+      "url": "https://raw.githubusercontent.com/ChenyeGu/ChenyeGuDataScience.github.io/main/sample.csv",
       "format": {"type": "csv"}
     },
    

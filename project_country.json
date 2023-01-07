@@ -6,7 +6,7 @@
   
     "title": {
         "text": ["Chart: usual residents in England and Wales", "by their country of birth"],
-        "subtitle": "Estimated by Census 2021, native residents are excluded, Source: ONS",
+        "subtitle": ["Estimated by Census 2021, native residents are excluded", "Source: ONS"],
         "subtitleFontStyle": "italic",
         "subtitleFontSize": 10,
         "anchor": "start",

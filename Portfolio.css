@@ -68,6 +68,7 @@ q1{
 }
 
 .container {
+    margin:auto;
     display: inline-table;
     justify-content: center;
     vertical-align: top;

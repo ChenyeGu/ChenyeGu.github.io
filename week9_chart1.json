@@ -10,7 +10,7 @@
         "color": "black"},
     
       "data": {
-      "url": "https://raw.githubusercontent.com/ChenyeGu/ChenyeGu.github.io/main/sample1.csv"
+      "url": "https://raw.githubusercontent.com/ChenyeGu/ChenyeGuDataScience.github.io/main/sample1.csv"
     },
     
     "repeat": {"layer": ["native", "migrant", "native_predict", "migrant_predict", "native_error", "migrant_error"]},

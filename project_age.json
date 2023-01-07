@@ -32,7 +32,7 @@
   
       },
     "height": 250,
-    "width": 200,
+    "width": 180,
   
     "encoding": {
       "y": {"field": "Age arrived in the UK", "type": "ordinal", "sort":[], "title": null},
